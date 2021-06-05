@@ -1,2 +1,2 @@
 # crud.js
-Aplicação CRUD simples
+Aplicação CRUD simples construída para uma atividade 
